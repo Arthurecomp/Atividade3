@@ -8,18 +8,21 @@ export default function Home() {
         localização=" Mordor"
         url="images/smegol.jpg"
         likesInicial={15}
+        cor={false}
       />
       <Postagem
         nome="Grogu"
         localização=" Arvala-7"
         url=" images/grogu.jpeg"
         likesInicial={43}
+        cor={false}
       />
       <Postagem
         nome="Vader"
         localização=" Tatooine "
         url="images/vader.jpg"
         likesInicial={88}
+        cor={false}
       />
     </main>
   );

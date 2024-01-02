@@ -7,9 +7,16 @@ interface PropsPostagem {
   localização: string;
   url: string;
   likesInicial: number;
+  cor: boolean;
 }
 
-function Postagem({ nome, localização, url, likesInicial }: PropsPostagem) {
+function Postagem({
+  nome,
+  localização,
+  url,
+  likesInicial,
+  cor,
+}: PropsPostagem) {
   return (
     <section className="w-[250px] h-[360px] bg-slate-100 border-2 border-sky-950">
       <div>
@@ -19,7 +26,7 @@ function Postagem({ nome, localização, url, likesInicial }: PropsPostagem) {
         <Imagem url={url} />
       </div>
       <div>
-        <Likes likesInicial={likesInicial} nome={nome} cor={""} />
+        <Likes likesInicial={likesInicial} nome={nome} cor={cor} />
       </div>
     </section>
   );
