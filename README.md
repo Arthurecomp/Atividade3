@@ -15,6 +15,10 @@
 
 <h4> Adicinal fora a atividade: <p><p>
 
-<p> 1. Criei um componente Formulário para receber os inputs e poder adicionar novos cards
+<p> 1. Criei um componente Formulário e um componente CampoTexto para receber os inputs e poder adicionar novos cards
+<p> 2. Foi criado função no CampoTexto para obter os valores de cada entrada 
+<p> 3. No Formulário foi criado uma função para para salvar em um objeto(nome, localização, url) o estado de cada CampoTexto, após o envio do formulário
+<p> 4. Na página principal, o useState está adicionando em um array os objetos salvos no formulário.
+
 
 ![Screenshot_2](https://github.com/Arthurecomp/Atividade3/assets/153030838/89e0d67c-ecc9-481f-8679-ddceb2c37806)
