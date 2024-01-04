@@ -13,7 +13,7 @@
 
 
 
-<h4> Adicinal fora a atividade: <p><p>
+<h4> Adicional fora a atividade: <p><p>
 
 <p> 1. Criei um componente Formulário e um componente CampoTexto para receber os inputs e poder adicionar novos cards
 <p> 2. Foi criado função no CampoTexto para obter os valores de cada entrada 
