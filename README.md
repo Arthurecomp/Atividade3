@@ -15,6 +15,6 @@
 
 <h4> Adicinal fora a atividade: <p><p>
 
-<p> 1. Criei um componente Formulário para receber os inputs e pode adcicionar novos cards
+<p> 1. Criei um componente Formulário para receber os inputs e poder adicionar novos cards
 
 ![Screenshot_2](https://github.com/Arthurecomp/Atividade3/assets/153030838/89e0d67c-ecc9-481f-8679-ddceb2c37806)
