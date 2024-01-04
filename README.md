@@ -10,3 +10,11 @@
 <p>4. Com a utilização do hook 'useState' é possivel mudar a quantidade de likes ao clicar no botão, e possível diminuir o like tbm
 
 ![Imagem](./exercicio3/public/images/save3.jpg)
+
+
+
+<h4> Adicinal fora a atividade: <p><p>
+
+<p> 1. Criei um componente Formulário para receber os inputs e pode adcicionar novos cards
+
+![Screenshot_2](https://github.com/Arthurecomp/Atividade3/assets/153030838/89e0d67c-ecc9-481f-8679-ddceb2c37806)
